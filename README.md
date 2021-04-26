@@ -10,4 +10,4 @@
 
 * Checkmarx: https://www.checkmarx.com/products/static-application-security-testing/
 
-* Android: https://github.com/MobSF/Mobile-Security-Framework-MobSF
+* Mobile: https://github.com/MobSF/Mobile-Security-Framework-MobSF
