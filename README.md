@@ -13,3 +13,7 @@
 * Mobile: https://github.com/MobSF/Mobile-Security-Framework-MobSF
 
 * Shiftleft: https://www.shiftleft.io/
+
+* Nodejsscan: https://github.com/ajinabraham/nodejsscan
+
+* SCS(.NET): https://security-code-scan.github.io/#Installation
