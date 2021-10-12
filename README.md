@@ -17,3 +17,5 @@
 * Nodejsscan: https://github.com/ajinabraham/nodejsscan
 
 * SCS(.NET): https://security-code-scan.github.io/#Installation
+
+* Bughound: https://github.com/mhaskar/Bughound
