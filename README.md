@@ -18,4 +18,6 @@
 
 * SCS(.NET): https://security-code-scan.github.io/#Installation
 
+* JavaScript: https://github.com/Song-Li/ODGen
+
 * Bughound: https://github.com/mhaskar/Bughound
