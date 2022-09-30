@@ -12,6 +12,8 @@
 
 * Mobile: https://github.com/MobSF/Mobile-Security-Framework-MobSF
 
+* Kubernetes and dockers: https://github.com/aquasecurity/trivy && https://www.hackingarticles.in/containers-vulnerability-scanner-trivy/
+
 * Shiftleft: https://www.shiftleft.io/
 
 * Nodejsscan: https://github.com/ajinabraham/nodejsscan
