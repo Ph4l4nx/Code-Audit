@@ -8,16 +8,16 @@
 
 * RATS (The Rough Auditing Tool for Security): https://security.web.cern.ch/recommendations/en/codetools/rats.shtml
 
+* Mobile: https://github.com/MobSF/Mobile-Security-Framework-MobSF
+
+
+# Paid
+
 * Sonarqube: https://www.sonarqube.org/
 
 * Kiuwan: https://www.kiuwan.com/
 
 * Checkmarx: https://www.checkmarx.com/products/static-application-security-testing/
-
-* Mobile: https://github.com/MobSF/Mobile-Security-Framework-MobSF
-
-
-# Paid
 
 * Kubernetes and dockers: https://github.com/aquasecurity/trivy && https://www.hackingarticles.in/containers-vulnerability-scanner-trivy/
 
