@@ -10,6 +10,9 @@
 
 * Mobile: https://github.com/MobSF/Mobile-Security-Framework-MobSF
 
+* Kubernetes and dockers: https://github.com/aquasecurity/trivy && https://www.hackingarticles.in/containers-vulnerability-scanner-trivy/
+
+* Nodejsscan: https://github.com/ajinabraham/nodejsscan
 
 # Paid
 
@@ -19,11 +22,7 @@
 
 * Checkmarx: https://www.checkmarx.com/products/static-application-security-testing/
 
-* Kubernetes and dockers: https://github.com/aquasecurity/trivy && https://www.hackingarticles.in/containers-vulnerability-scanner-trivy/
-
 * Shiftleft: https://www.shiftleft.io/
-
-* Nodejsscan: https://github.com/ajinabraham/nodejsscan
 
 * SCS(.NET): https://security-code-scan.github.io/#Installation
 
